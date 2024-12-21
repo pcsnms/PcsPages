@@ -144,9 +144,19 @@
               "icon": "lucide-list",
               "title": "VDA5050 개요"
             }
+          },
+          {
+            "id": "24f6493394a68e81",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
