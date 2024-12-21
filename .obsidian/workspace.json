@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tip/VDA5050.md",
+                "file": "tips/VDA5050.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tip/VDA5050.md"
+                "file": "tips/VDA5050.md"
               },
               "icon": "lucide-list",
               "title": "VDA5050 개요"
@@ -173,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6891fc4ae6be249",
+  "active": "052bc1333f932b91",
   "lastOpenFiles": [
-    "tip/VDA5050.md",
+    "tips/VDA5050.md",
     "VDA5050 정리.md",
-    "tip"
+    "tips"
   ]
 }
